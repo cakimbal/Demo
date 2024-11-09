@@ -1,1 +1,1 @@
-This is my Lab 7b assignment
+My first repository on GitHub!
